@@ -1,0 +1,14 @@
+paflib (0.3.0-1) unstable; urgency=medium
+
+  * Release update to 0.3.0
+  * Fix d/control fields
+
+ -- Thierry Fauck <tfauck@free.fr>  Tue, 30 Aug 2016 10:50:44 +0200
+
+paflib (0.2.0-1) unstable; urgency=medium
+
+  * Release update to 0.2.0
+  * Closes: #781117
+  * Update rules to compile eeb library
+
+ -- Thierry Fauck <tfauck@free.fr>  Fri, 21 Aug 2015 12:07:24 -0400
